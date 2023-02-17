@@ -1,0 +1,8 @@
+<root>    <header>AURA_3.0</header>
+    <version>1.0</version>
+    <effectProvider>        <period>0</period>
+        <queue></queue>
+    </effectProvider>
+    <viewport></viewport>
+    <effectList></effectList>
+</root>
